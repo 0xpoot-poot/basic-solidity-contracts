@@ -1,5 +1,5 @@
 # basic-solidity-contracts
-A few basic solidity contracts to experiment with, including creating an ERC-20 token, building a voting contract, and developing a simple lottery game for specific token holders.
+A few basic solidity contracts to experiment with, including creating an ERC-20 token (also provided as a template in Remix IDE) and developing a simple lottery game accessible by specific token holders.
 
 
 # ERC20 Token
