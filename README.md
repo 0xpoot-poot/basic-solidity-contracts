@@ -25,10 +25,10 @@ The Dynamic NFT smart contract allows the minting and updating of NFT metadata v
 - Ownership Control: Restricted to the contract owner for minting and metadata updates.
 
 ## Contract Details
-Contract Name: `DynamicNFT`
-Network Compatibility: Compatible with Ethereum Testnets (e.g., Sepolia, Goerli)
-Dependencies:
-OpenZeppelin Contracts: ERC721URIStorage, Ownable
+- Contract Name: `DynamicNFT`
+- Network Compatibility: Compatible with Ethereum Testnets (e.g., Sepolia, Goerli)
+- Dependencies: OpenZeppelin
+- Contracts: ERC721URIStorage, Ownable
 Compiler Version: ^0.8.26
 
 ## Deployment Steps
