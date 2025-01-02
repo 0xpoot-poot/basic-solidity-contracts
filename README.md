@@ -3,5 +3,14 @@ A few basic solidity contracts to experiment with, including creating an ERC-20 
 
 
 # ERC20 Token
-The standards have already been defined and explained in:
+The ERC-20 standard has already been defined and explained in:
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.7/contracts/token/ERC20/ERC20.sol
+
+This project demonstrates the creation and deployment of an ERC-20 token using Solidity and OpenZeppelin's ERC-20 implementation. It includes:
+
+- Token minting during deployment.
+- Balance checking.
+- Token transfer between accounts.
+- Integration-ready design for dApps and exchanges.
+
+# Dynamic NFT Deployment
