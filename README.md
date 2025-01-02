@@ -19,10 +19,10 @@ This repository contains a Solidity smart contract for deploying and managing Dy
 The Dynamic NFT smart contract allows the minting and updating of NFT metadata via the blockchain. Each NFT is represented uniquely and can change its metadata (e.g., image, attributes) dynamically through external triggers (e.g., backend services, APIs).
 
 ## Features
-Mint Dynamic NFTs: Allows minting NFTs with specific token URIs.
-Update Metadata: Dynamically update the metadata of NFTs using the updateTokenURI method.
-ERC-721 Compliant: Fully adheres to the ERC-721 standard with URI storage extension.
-Ownership Control: Restricted to the contract owner for minting and metadata updates.
+- Mint Dynamic NFTs: Allows minting NFTs with specific token URIs.
+- Update Metadata: Dynamically update the metadata of NFTs using the updateTokenURI method.
+- ERC-721 Compliant: Fully adheres to the ERC-721 standard with URI storage extension.
+- Ownership Control: Restricted to the contract owner for minting and metadata updates.
 
 ## Contract Details
 Contract Name: `DynamicNFT`
